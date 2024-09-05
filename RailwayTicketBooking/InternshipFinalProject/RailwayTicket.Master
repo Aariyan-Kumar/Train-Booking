@@ -1,0 +1,79 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="RailwayTicket.Master.cs" Inherits="InternshipFinalProject.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" href="Master.css" />
+</head>
+<script>
+    function printdiv() {
+        window.print();
+    }
+</script>
+
+<body>
+    <form id="form1" runat="server">
+        <nav id="navbar">
+            <!--Navigation bar Starts Here-->
+            <div id="navleftcont">
+                <img class="img" src="Images/Railway Logo.png" alt="Railway Logo" />
+                <!--Image is added at left conner-->
+            </div>
+            <ul>
+                <!--Navigation Link are formed-->
+                <li><a href="Home.aspx">Home</a></li>
+                <li><a href="LogIn.aspx">Log In</a></li>
+                <li><a href="SignUp.aspx">Sign Up</a></li>
+                <li><a href="About Us.aspx">About Us</a></li>
+            </ul>
+            <!--Navigation Link are Ends-->
+            <div id="navrightcont">
+                <img class="img" src="Images/irctc logo.png" alt="IRCTC logo" />
+                <!--Image is added at right conner-->
+            </div>
+        </nav>
+        <!--Header Ends Here-->
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+        <!--Content of Home Page is Added-->
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server"></asp:ContentPlaceHolder>
+        <!--Content of Sign In Page is Added-->
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server"></asp:ContentPlaceHolder>
+        <!--Content of Log In Page is Added-->
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder5" runat="server"></asp:ContentPlaceHolder>
+        <!--Content of Ticket Booking Page is Added-->
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder4" runat="server"></asp:ContentPlaceHolder>
+        <!--Content of About Us Page is Added-->
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder6" runat="server"></asp:ContentPlaceHolder>
+        <!--Content of Searched Trains Page is Added-->
+        <section>
+            <!--New Section Started-->
+            <footer>
+                <!-- Footer Stared-->
+                <div>
+                    <div id="footerimgcont">
+                        <!--Social media Div-->
+                        <h4>Get Connected with us on social networks</h4>
+                        <!--Icon and Link of Social Media-->
+                        <a target="”_blank”" href="https://www.facebook.com/IRCTCofficial/">
+                            <img class="footerimg" src="Images/facebook.png" alt="facebook icon" /></a>
+                        <a target="”_blank”" href="https://www.instagram.com/irctc.official/?igshid=yyg5byow704l">
+                            <img class="footerimg" src="Images/instagram.png" alt="instagram icon" /></a>
+                        <a target="”_blank”" href="https://www.youtube.com/c/IRCTCOFFICIAL">
+                            <img class="footerimg" src="Images/youtube.png" alt="youtube icon" /></a>
+                        <a target="”_blank”" href="https://twitter.com/IRCTCofficial">
+                            <img class="footerimg" src="Images/twitter.png" alt="twitter icon" /></a>
+                        <a target="”_blank”" href="https://www.linkedin.com/company/irctcofficial/">
+                            <img class="footerimg" src="Images/linkedin.png" alt="linked icon" /></a>
+                        <a target="”_blank”" href="https://www.kooapp.com/profile/irctcofficial">
+                            <img class="footerimg" src="Images/Koo.png" alt="koo icon" /></a>
+                    </div>
+                </div>
+            </footer>
+            <!-- Footer Ends-->
+        </section>
+        <!--New Section Started-->
+    </form>
+</body>
+</html>

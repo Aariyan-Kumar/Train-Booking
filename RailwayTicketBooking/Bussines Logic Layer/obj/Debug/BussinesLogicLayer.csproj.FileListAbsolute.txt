@@ -1,0 +1,9 @@
+D:\Aariyan\Silicon Institue of Technology\Intership\Visual Studio Code test\RailwayTicketBooking\Bussines Logic Layer\bin\Debug\BussinesLogicLayer.dll
+D:\Aariyan\Silicon Institue of Technology\Intership\Visual Studio Code test\RailwayTicketBooking\Bussines Logic Layer\bin\Debug\BussinesLogicLayer.pdb
+D:\Aariyan\Silicon Institue of Technology\Intership\Visual Studio Code test\RailwayTicketBooking\Bussines Logic Layer\bin\Debug\Data Base Access Layer.dll
+D:\Aariyan\Silicon Institue of Technology\Intership\Visual Studio Code test\RailwayTicketBooking\Bussines Logic Layer\bin\Debug\Data Base Access Layer.pdb
+D:\Aariyan\Silicon Institue of Technology\Intership\Visual Studio Code test\RailwayTicketBooking\Bussines Logic Layer\obj\Debug\BussinesLogicLayer.csproj.AssemblyReference.cache
+D:\Aariyan\Silicon Institue of Technology\Intership\Visual Studio Code test\RailwayTicketBooking\Bussines Logic Layer\obj\Debug\BussinesLogicLayer.csproj.CoreCompileInputs.cache
+D:\Aariyan\Silicon Institue of Technology\Intership\Visual Studio Code test\RailwayTicketBooking\Bussines Logic Layer\obj\Debug\BussinesLogicLayer.csproj.CopyComplete
+D:\Aariyan\Silicon Institue of Technology\Intership\Visual Studio Code test\RailwayTicketBooking\Bussines Logic Layer\obj\Debug\BussinesLogicLayer.dll
+D:\Aariyan\Silicon Institue of Technology\Intership\Visual Studio Code test\RailwayTicketBooking\Bussines Logic Layer\obj\Debug\BussinesLogicLayer.pdb
